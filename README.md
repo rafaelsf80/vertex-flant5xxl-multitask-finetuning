@@ -1,0 +1,1 @@
+This repo contains the code correspoding to this medium article: Fine-tuning FLAN-T5 XXL with DeepSpeed and Vertex AI
