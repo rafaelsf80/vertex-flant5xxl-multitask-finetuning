@@ -1,1 +1,1 @@
-This repo contains the code correspoding to this medium article: Fine-tuning FLAN-T5 XXL with DeepSpeed and Vertex AI
+This repo contains the code correspoding to [this medium article](https://medium.com/google-cloud/fine-tuning-flan-t5-xxl-with-deepspeed-and-vertex-ai-af499daf694d): Fine-tuning FLAN-T5 XXL with DeepSpeed and Vertex AI
